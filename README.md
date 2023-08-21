@@ -1,3 +1,5 @@
+> # Note: The notes may be outdated by now.
+
 # Complete Python Developer in 2022: Zero to Mastery
 
 My notes from the [Complete Python Developer in 2022: Zero to Mastery](https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery) course from [Zero to Mastery](https://zerotomastery.io/) Academy.
